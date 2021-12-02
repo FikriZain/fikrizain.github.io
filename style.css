@@ -1,0 +1,23 @@
+body {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.jumbotron {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  background-color: #aeffb9;
+}
+#about {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+#gallery {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  background-color: #aeffb9;
+}
+#gallery h2 {
+  padding-bottom: 2rem;
+}
+#contact {
+  padding: 2rem;
+}
